@@ -1,3 +1,3 @@
-#Pirma limeņa virsraksts
-## Otra limeņa virsraksts
+#     Pirma limeņa virsraksts
+## Otra limeņa virsrakst
 ###### Mazakais virsraksts
